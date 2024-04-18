@@ -7,3 +7,9 @@ aaaaaaaaaaaaa
 aaaaaaaaaaaaaaaa
 per andare a capo fare due spazi e andare a capo 
 #### 4 hastag
+linkiamo qualcosa (archive.org) (https://archive.org) 
+facciamo un elenco 
+- ciao
+- brutto
+- bruttissimo 
+
